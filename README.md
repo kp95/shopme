@@ -1,5 +1,13 @@
-# shopme refernces self learning from UDEMY platform.
-A E-commerce Application implemented using Spring Boot -Spring Data -Spring Security -AWS(for storing user images) -OAuth(Google Login) -Thymleaf -Bootstrap
+# shopme refernces self learning project from UDEMY platform.
+A E-commerce Application implemented using 
+  -Spring Boot 
+  -Spring Data 
+  -Spring Security 
+  -AWS(for storing user images) 
+  -OAuth(Google Login) 
+  -MYSQL
+  -Thymleaf 
+  -Bootstrap
 It has two parts 
   -Frontend
     --shopme frontend for user to browse products
